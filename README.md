@@ -90,7 +90,7 @@ goto https://ngrok.com
 
 ## feedback
 any issues or mistakes my script contact me
-* *mshaheerkp99@gmail.com*
+*mshaheerkp99@gmail.com*
 
 
 
