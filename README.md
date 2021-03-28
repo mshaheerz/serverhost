@@ -11,5 +11,5 @@
 <img title="issues" src="https://img.shields.io/github/issues/mshaheerz/serverhost">          
            
 <br>
-<img title="tool" src="https://img.shields.io/static/v1?label=TOOL&message=HOSTSERVER&color=green">
+<img title="tool" src="https://img.shields.io/static/v1?label=TOOL&message=SERVERHOST&color=green">
 <img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
