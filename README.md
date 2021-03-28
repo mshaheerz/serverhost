@@ -1,4 +1,4 @@
-![Screenshot_20210328-145422_Chrome](https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg)
+
 
 
 ![Screenshot_20210328-102703_Photos~2](https://user-images.githubusercontent.com/72137242/112742909-6cf5db80-8fb0-11eb-96c1-a48412908bb2.jpg)
@@ -45,6 +45,27 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 ### USAGE OPTIONS:
 * Enter ngrok authtoken :
 (goto https://ngrok.com 
+<a href https://ngrok.com>
+![Screenshot_20210328-145422_Chrome](https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg)</a>
+* click get started for free
+* create account or login account
+* and copy the authtoken (./ngrok authtoken.......)
+
+![Screenshot_20210328-122613_Chrome~2](https://user-images.githubusercontent.com/72137242/112748005-b22d0400-8fd6-11eb-910d-109d303ca063.jpg)
+* paste authtoken 
+## usage
+* Enter the file directory:
+
+![PicsArt_03-28-03 14 20](https://user-images.githubusercontent.com/72137242/112748301-72671c00-8fd8-11eb-8020-78dff1020e85.jpg)
+
+* i need to run my hello.html its u see its location red mark input your directory it will fine !!!!!
+
+## feedback
+any issues or mistakes my script contact me
+ **mshaheerkp99@gmail.com*
+
+
+
 
 
 
