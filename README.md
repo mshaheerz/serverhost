@@ -46,7 +46,7 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 * Enter ngrok authtoken :
 goto https://ngrok.com 
 
-<a href https://ngrok.com>
+<a href="https://ngrok.com">
 ![Screenshot_20210328-145422_Chrome](https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg)</a>
 * click get started for free
 * create account or login account
