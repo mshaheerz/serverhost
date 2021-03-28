@@ -47,7 +47,7 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 goto https://ngrok.com 
 
 <a href="https://ngrok.com">
-![Screenshot_20210328-145422_Chrome](<img src="https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg"></a>
+<img src="https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg"></a>
 * click get started for free
 * create account or login account
 * and copy the authtoken (./ngrok authtoken.......)
@@ -56,14 +56,14 @@ goto https://ngrok.com
 * paste authtoken 
 ## usage
 * Enter the file directory:
-
-![PicsArt_03-28-03 14 20](https://user-images.githubusercontent.com/72137242/112748301-72671c00-8fd8-11eb-8020-78dff1020e85.jpg)
-
+<a href="https://ngrok.com">
+<img src="https://user-images.githubusercontent.com/72137242/112748301-72671c00-8fd8-11eb-8020-78dff1020e85.jpg">
+</a>
 * i need to run my hello.html its u see its location red mark input your directory it will fine !!!!!
 
 ## feedback
 any issues or mistakes my script contact me
- **mshaheerkp99@gmail.com*
+* *mshaheerkp99@gmail.com*
 
 
 
