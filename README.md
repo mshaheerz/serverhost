@@ -41,3 +41,8 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 * ./serverhost.sh
 ------[+] now don't delete any items in directory
 ------[+] dont turn of internet
+### USAGE OPTIONS:
+* Enter ngrok authtoken :
+(goto https://ngrok.com 
+
+
