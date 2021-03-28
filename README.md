@@ -71,9 +71,13 @@ goto https://ngrok.com
 
 <a href="https://ngrok.com">
 <img src="https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg"></a>
+<br>
 * click get started for free
+<br>
 * create account or login account
+<br>
 * and copy the authtoken (./ngrok authtoken.......)
+<br>
 
 ![Screenshot_20210328-122613_Chrome~2](https://user-images.githubusercontent.com/72137242/112748005-b22d0400-8fd6-11eb-910d-109d303ca063.jpg)
 * paste authtoken 
