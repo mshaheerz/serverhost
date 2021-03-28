@@ -1,3 +1,4 @@
+![Screenshot_20210328-145422_Chrome](https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg)
 
 
 ![Screenshot_20210328-102703_Photos~2](https://user-images.githubusercontent.com/72137242/112742909-6cf5db80-8fb0-11eb-96c1-a48412908bb2.jpg)
@@ -44,5 +45,6 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 ### USAGE OPTIONS:
 * Enter ngrok authtoken :
 (goto https://ngrok.com 
+
 
 
