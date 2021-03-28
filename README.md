@@ -72,6 +72,7 @@ goto https://ngrok.com
 <a href="https://ngrok.com">
 <img src="https://user-images.githubusercontent.com/72137242/112747910-04215a00-8fd6-11eb-8f5a-adb6d87fe330.jpg"></a>
 <br>
+<ol>
 * click get started for free
 <br>
 * create account or login account
@@ -80,12 +81,13 @@ goto https://ngrok.com
 <br>
 
 ![Screenshot_20210328-122613_Chrome~2](https://user-images.githubusercontent.com/72137242/112748005-b22d0400-8fd6-11eb-910d-109d303ca063.jpg)
-* paste authtoken 
+* paste authtoken here
+
+</ol> 
 ## usage
 * Enter the file directory:
 <a href="https://ngrok.com">
-<img src="https://user-images.githubusercontent.com/72137242/112748301-72671c00-8fd8-11eb-8020-78dff1020e85.jpg">
-</a>
+<img src="https://user-images.githubusercontent.com/72137242/112748301-72671c00-8fd8-11eb-8020-78dff1020e85.jpg"></a>
 * i need to run my hello.html its u see its location red mark input your directory it will fine !!!!!
 
 ## feedback
