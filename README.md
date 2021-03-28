@@ -38,9 +38,12 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 * git clone https://github.com/mshaheerz/serverhost
 * cd serverhost
 * ./install.sh
-* press 1 directly run serverhost.sh file or manually run
+<br>
+ press 1 directly run serverhost.sh file or manually run
 * ./serverhost.sh
+<br>
 ------[+] now don't delete any items in directory
+<br>
 ------[+] dont turn of internet
 ### USAGE OPTIONS:
 * Enter ngrok authtoken :
