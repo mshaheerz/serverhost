@@ -380,7 +380,7 @@ select fav in "${foods[@]}"; do
     case $fav in
         "start")
             echo "$faving......!"
-            read -p " [+] enter ngrok outhtoken:" token
+            read -p " [+] enter ngrok authtoken:" token
 
 read -p " [+] enter file directory:" file
 $token
