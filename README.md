@@ -6,3 +6,7 @@
 
 
 ![Screenshot_20210328-102338_Termux~2](https://user-images.githubusercontent.com/72137242/112742925-85fe8c80-8fb0-11eb-8959-099e573dd711.jpg)
+<p align="center">
+<img title="license" src="https://img.shields.io/github/license/mshaheerz/serverhost">
+<img title="issues" src="https://img.shields.io/github/issues/mshaheerz/serverhost">          
+           
