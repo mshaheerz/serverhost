@@ -15,3 +15,29 @@
 <img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
 <br>
 <img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow">
+
+## ABOUT TOOL!:
+server host is a basic bash scripted tool. its made for basic server host eg:- (html,php....etc)
+## AVAILABLE:
+* Termux
+* Kali
+## TESTED ON:
+* Termux
+
+### REQUIREMENTS:
+* Internet
+* ngrok authtoken
+* figlet,toilet(optional)
+* need your file directory(which directory run as server!!!)
+## FEATURES:
+* It helps to begginers
+* easy to use
+## INSTALLATION 【TERMUX】
+* cd
+* git clone https://github.com/mshaheerz/serverhost
+* cd serverhost
+* ./install.sh
+* press 1 directly run serverhost.sh file or manually run
+* ./serverhost.sh
+------[+] now don't delete any items in directory
+------[+] dont turn of internet
