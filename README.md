@@ -37,6 +37,7 @@ server host is a basic bash scripted tool. its made for basic server host eg:- (
 * cd
 * git clone https://github.com/mshaheerz/serverhost
 * cd serverhost
+* chmod +x *
 * ./install.sh
 
 
