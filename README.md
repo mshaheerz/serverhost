@@ -94,8 +94,7 @@ goto https://ngrok.com
 * i need to run my hello.html its u see its location red mark input your directory it will fine !!!!!
 
 ## feedback
-any issues or mistakes my script contact me
-*mshaheerkp99@gmail.com*
+
 
 
 
