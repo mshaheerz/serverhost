@@ -15,7 +15,6 @@
 <img title="tool" src="https://img.shields.io/static/v1?label=TOOL&message=SERVERHOST&color=green">
 <img title="creator" src="https://img.shields.io/static/v1?label=created%20by&message=shaheerez&color=blue">
 <br>
-<img title="creator" src="https://img.shields.io/static/v1?label=as%20a&message=malayali&color=yellow">
 
 ## ABOUT TOOL!:
 server host is a basic bash scripted tool. its made for basic server host eg:- (html,php....etc)
